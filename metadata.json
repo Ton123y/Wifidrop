@@ -1,0 +1,8 @@
+{
+  "name": "WiFiDrop — نقل الملفات عبر الواي فاي",
+  "description": "مشاركة ونقل الملفات بين الأجهزة عبر شبكة الواي فاي من خلال غرف معزولة وفورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
